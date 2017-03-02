@@ -1,0 +1,6 @@
+C:\Users\Álvaro\Documents\GSDAW\Programacion\4 Evaluacion\Ejercicios\p40_MiPrimeraClase\p40_MiPrimeraClase\bin\Debug\p40_MiPrimeraClase.exe.config
+C:\Users\Álvaro\Documents\GSDAW\Programacion\4 Evaluacion\Ejercicios\p40_MiPrimeraClase\p40_MiPrimeraClase\bin\Debug\p40_MiPrimeraClase.exe
+C:\Users\Álvaro\Documents\GSDAW\Programacion\4 Evaluacion\Ejercicios\p40_MiPrimeraClase\p40_MiPrimeraClase\bin\Debug\p40_MiPrimeraClase.pdb
+C:\Users\Álvaro\Documents\GSDAW\Programacion\4 Evaluacion\Ejercicios\p40_MiPrimeraClase\p40_MiPrimeraClase\obj\Debug\p40_MiPrimeraClase.csprojResolveAssemblyReference.cache
+C:\Users\Álvaro\Documents\GSDAW\Programacion\4 Evaluacion\Ejercicios\p40_MiPrimeraClase\p40_MiPrimeraClase\obj\Debug\p40_MiPrimeraClase.exe
+C:\Users\Álvaro\Documents\GSDAW\Programacion\4 Evaluacion\Ejercicios\p40_MiPrimeraClase\p40_MiPrimeraClase\obj\Debug\p40_MiPrimeraClase.pdb
